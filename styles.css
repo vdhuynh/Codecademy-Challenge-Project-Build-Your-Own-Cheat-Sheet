@@ -1,0 +1,30 @@
+html {
+  background-color: gray;
+  color: tan;
+}
+
+table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+  
+    }
+
+th {
+      background-color: turquoise;
+      text-align: center;
+      color: black;
+      }
+
+.property {
+  font-weight: bold;
+}
+
+.title {
+  text-align: center;
+}
